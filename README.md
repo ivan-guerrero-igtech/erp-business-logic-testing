@@ -1,11 +1,7 @@
 # erp-business-logic-testing
 Análisis funcional y diseño de pruebas de integración para el módulo de servicios (OT) y revalorización contable en SAP B1.
 
-# ⚙️ Análisis Funcional: Corrección de Validación en Stored Procedure (SAP B1 TN)
-
 Este repositorio documenta la investigación, detección de causa raíz y propuesta de solución técnica para un error de validación lógica dentro del `TransactionNotification` (TN) de SAP Business One.
-
-## 📌 Reporte del Incidente: OT Tipo Reacondicionamiento - Tipo Traslado 'REACO'
 
 ### 📋 Información General
 * **Sistema:** SAP Business One (SBO)
